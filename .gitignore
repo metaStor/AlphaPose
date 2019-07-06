@@ -22,9 +22,9 @@ images
 */.tensorboard/*
 */exp
 
-#*.pth
-#*.h5
+*.pth
+*.h5
 *.zip
-#*.weights
+*.weights
 
 coco-minival/
