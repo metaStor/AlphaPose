@@ -17,13 +17,14 @@ images
 *.so
 *.pyc
 .ipynb_checkpoints
+.idea
 */.ipynb_checkpoints/
 */.tensorboard/*
 */exp
 
-*.pth
-*.h5
+#*.pth
+#*.h5
 *.zip
-*.weights
+#*.weights
 
 coco-minival/
